@@ -44,8 +44,9 @@ int main()
     string s, a;
     int n,c ;
     
-    //fill chore list initial chores
-    string chores[] = {"go to class", "take out trash", "feed the dog", "Do the dishes", "clean room", "mow the lawn"};
+    //fill chore list for initial chores if wanted
+    //Empty
+    string chores[] = {};
     
     for(int i = 0; i < 6; i++)
         {
